@@ -47,3 +47,15 @@ button:hover {
     border-radius: 5px;
     padding: 8px;
 }
+
+/* Kamaldeep: Improved quiz choice styling */
+#choices button {
+    background: white;
+    border: 2px solid #ddd;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+#choices button:hover {
+    background: #eee;
+}
