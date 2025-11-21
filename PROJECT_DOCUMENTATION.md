@@ -24,7 +24,8 @@ This project is an interactive JavaScript webpage created for the Module 03 Mini
 
 ### Kamaldeep Kaur:
 
-- Covered all styles.css file that contains all the visual design and formatting for the webpage. It controls how the page looks by defining colors, layout, spacing, fonts, and styling for different elements. The stylesheet improves the overall user experience by making the webpage more organized, attractive, and easier to read. It also ensures that the page layout stays consistent across all sections of the project.
+- Worked on improving the styling and user experience for the Number Guessing Game section.Added custom button styling, input field formatting, and hover effects to make the interactive elements more visually appealing.
+Implemented small layout adjustments to ensure consistent spacing and readability across the page.Contributed JavaScript enhancements to the Guessing Game feature, including a Reset Game button and improved feedback messages.
 
 ### Collaboration Workflow:
 1. Update assigned section
