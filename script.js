@@ -1,3 +1,8 @@
+
+// ----------------------
+// Guessing Game
+// ----------------------
+
 // ----------------------
 // Guessing Game
 // ----------------------
@@ -14,11 +19,22 @@ document.getElementById('guessBtn').onclick = () => {
     }
 
     if (guess === number) {
-        feedback.textContent = "Correct! 🎉 You guessed the number!";
+        feedback.textContent = "Correct! You guessed the number!";
     } else {
         feedback.textContent = "Wrong guess. Try again!";
     }
 };
+
+// ----------------------
+// Kamaldeep: Reset Game button logic
+// ----------------------
+document.getElementById("resetBtn").onclick = () => {
+    number = Math.floor(Math.random() * 10) + 1;
+    feedback.textContent = "Game reset! Try again.";
+    document.getElementById('guessBtn').disabled = false; 
+};
+
+
 
 
 // ----------------------
