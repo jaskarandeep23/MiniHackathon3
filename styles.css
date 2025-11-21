@@ -27,3 +27,15 @@ button {
     display: block;
     margin: 5px 0;
 }
+
+/* Kamaldeep: Improved button style */
+button {
+    background: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #357ab8;
+}
