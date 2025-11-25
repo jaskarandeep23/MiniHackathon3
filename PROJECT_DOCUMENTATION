@@ -18,9 +18,14 @@ This project is an interactive JavaScript webpage created for the Module 03 Mini
 
 - Completed the initial project setup and developed the main HTML file, which includes the structure of the webpage and connects to external CSS and JavaScript files. The HTML file lays out the core components of the interface, which will be enhanced with styling and interactive features as the project progresses.
 
-### Harshdeep Singh:
+### Harshdeep Singh
 
-- Styles css file which controls how the page looks by defining colors, layout, spacing, fonts, and styling for different elements. The stylesheet improves the overall user experience by making the webpage more organized, attractive, and easier to read. It also ensures that the page layout stays consistent across all sections of the project.
+- Improved the overall visual design of the webpage.
+- Updated the `styles.css` file with modern UI elements such as improved layout, buttons, animations, gradients, and interactive hover effects.
+- Added new style classes to enhance the user experience and make the quiz more engaging.
+- Updated the `README.md` and `PROJECT_DOCUMENTATION.md` to reflect the design decisions and styling approach.
+- Helped refine the structure of the HTML to support the new styling components.
+
 
 ### Kamaldeep Kaur:
 
